@@ -10,4 +10,4 @@ I'm an Oregon State University student pursuing a bachelor's degree in Computer 
 - GitHub and Version Control
 
 # Projects:
-Projects are currently in progress. Check back soon as I continue developing my skils and adding work to my portfolio!
+Projects are currently in progress. Check back soon as I continue developing my skills and adding work to my portfolio!
