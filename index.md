@@ -6,13 +6,13 @@ I’m still early in my development as a data professional, but I’m interested
 
 
 # Skills:
-Python: Beginner / developing – learning programming fundamentals and how to use Python to work with data
-SQL: Developing – learning how to organize, retrieve, and work with information stored in databases.
-Excel and spreadsheets: Experience organizAing information and working with spreadsheet based data.
-Data analysis: Solid ability to examine information, recognize patterns, and use evidence to answer questions.
-Data visualization: Experienced in presenting information visually so patterns and findings are easier to understand.
-Information organization: Experience organizing and evaluating information in a cyber intelligence context.
-Critical thinking and problem solving: Applying structured reasoning to assess information, work through questions, and communicate useful conclusions.
+- Python: Beginner / developing – learning programming fundamentals and how to use Python to work with data
+- SQL: Developing – learning how to organize, retrieve, and work with information stored in databases.
+- Excel and spreadsheets: Experience organizAing information and working with spreadsheet based data.
+- Data analysis: Solid ability to examine information, recognize patterns, and use evidence to answer questions.
+- Data visualization: Experienced in presenting information visually so patterns and findings are easier to understand.
+- Information organization: Experience organizing and evaluating information in a cyber intelligence context.
+- Critical thinking and problem solving: Applying structured reasoning to assess information, work through questions, and communicate useful conclusions.
 
 # Career Goals:
 My main career goal is to build a career that combines data analysis with cybersecurity or intelligence work. I’m interested in roles where I can use data to identify patterns, investigate questions, and provide information that supports sound decisions. My experience in the Air National Guard introduced me to the importance of understanding information and evaluating it carefully. I would like to build on that experience by developing stronger technical and analytical skills.
