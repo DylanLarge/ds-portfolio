@@ -22,3 +22,7 @@ Over time, I hope to qualify for a higher cybersecurity focused analytical role 
 
 # Projects & Work in Progress:
 I’m currently building my data science project experience through coursework at Oregon State. This section will be updated as I complete projects involving data preparation, analysis, programming, and so on.
+
+# Contact
+- You can reach me at largentd@oregonstate.edu, dylanveneta31@gmail.com
+  
